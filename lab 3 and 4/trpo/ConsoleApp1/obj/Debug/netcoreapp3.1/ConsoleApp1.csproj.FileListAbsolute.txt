@@ -1,0 +1,27 @@
+D:\Study\Kremza\trpo\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Study\Kremza\trpo\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Study\Kremza\trpo\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Study\Kremza\trpo\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Study\Kremza\trpo\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Study\Kremza\trpo\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Study\Kremza\trpo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Study\Kremza\trpo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Kremza\trpo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Study\Kremza\trpo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Study\Kremza\trpo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Study\Kremza\trpo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Study\Kremza\trpo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Study\Kremza\trpo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\User\Desktop\кремль\lab 3 and 4\trpo\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\User\Desktop\кремль\lab 3 and 4\trpo\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\User\Desktop\кремль\lab 3 and 4\trpo\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\User\Desktop\кремль\lab 3 and 4\trpo\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\User\Desktop\кремль\lab 3 and 4\trpo\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\User\Desktop\кремль\lab 3 and 4\trpo\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\User\Desktop\кремль\lab 3 and 4\trpo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\кремль\lab 3 and 4\trpo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\кремль\lab 3 and 4\trpo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\User\Desktop\кремль\lab 3 and 4\trpo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\кремль\lab 3 and 4\trpo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\User\Desktop\кремль\lab 3 and 4\trpo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\User\Desktop\кремль\lab 3 and 4\trpo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
