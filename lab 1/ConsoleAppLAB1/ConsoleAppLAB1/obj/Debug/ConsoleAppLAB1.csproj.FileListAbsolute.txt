@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\кремль\lab5\1\ConsoleAppLAB1\ConsoleAppLAB1\bin\Debug\ConsoleAppLAB1.exe.config
+C:\Users\User\Desktop\кремль\lab5\1\ConsoleAppLAB1\ConsoleAppLAB1\bin\Debug\ConsoleAppLAB1.exe
+C:\Users\User\Desktop\кремль\lab5\1\ConsoleAppLAB1\ConsoleAppLAB1\bin\Debug\ConsoleAppLAB1.pdb
+C:\Users\User\Desktop\кремль\lab5\1\ConsoleAppLAB1\ConsoleAppLAB1\obj\Debug\ConsoleAppLAB1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\кремль\lab5\1\ConsoleAppLAB1\ConsoleAppLAB1\obj\Debug\ConsoleAppLAB1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\кремль\lab5\1\ConsoleAppLAB1\ConsoleAppLAB1\obj\Debug\ConsoleAppLAB1.exe
+C:\Users\User\Desktop\кремль\lab5\1\ConsoleAppLAB1\ConsoleAppLAB1\obj\Debug\ConsoleAppLAB1.pdb
